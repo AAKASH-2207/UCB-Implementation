@@ -1,6 +1,6 @@
 '''
 this code is created by use of blackbox AI and got to working condition by Aakash Sharma
-Same Code with slight differnce in '_' 
+Similar approach without using ucb Function
 Date: Saturday, 11th May 2024
 '''
 import numpy as np
